@@ -1,4 +1,4 @@
-# stranger-things-arduino-costume
+# Stranger Things Arduino Costume
 My halloween costume of the stranger things light wall
 
 ![Alt text](/images/demo.jpg?raw=true "Stranger Things Arduino")
