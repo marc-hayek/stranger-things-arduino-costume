@@ -1,7 +1,7 @@
 # Stranger Things Arduino Costume
 My halloween costume of the stranger things light wall
 
-![Alt text](/images/demo.jpg?raw=true "Stranger Things Arduino")
+<img src="/images/demo.jpg" width="400" height="400">
 
 Step by Step tutorial coming soon!
 
